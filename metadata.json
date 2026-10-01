@@ -1,0 +1,6 @@
+{
+  "name": "MojeSaldoo - System Faktur i Sprzedaży dla Piekarni",
+  "description": "Nowoczesny system fakturowania, zamówień i tras dostaw pieczywa dla piekarni MojeSaldoo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
